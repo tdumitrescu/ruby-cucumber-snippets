@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Then /^${1:condition}\$/ do
+  ${2:### implementation}
+end
+]]></content>
+  <tabTrigger>then</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

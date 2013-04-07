@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:TRANSFORM_NAME} = Transform /^${2:regexp}\$/ do |${3:var}|
+  ${4:### implementation}
+end
+]]></content>
+  <tabTrigger>transform</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

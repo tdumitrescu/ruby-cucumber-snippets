@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Given /^${1:condition}\$/ do
+  ${2:### implementation}
+end
+]]></content>
+  <tabTrigger>given</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
