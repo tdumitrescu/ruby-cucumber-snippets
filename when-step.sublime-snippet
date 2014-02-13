@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-When /^${1:condition}\$/ do
+When(/^${1:condition}\$/) do
   ${2:### implementation}
 end
 ]]></content>

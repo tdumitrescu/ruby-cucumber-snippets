@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-Given /^${1:condition}\$/ do
+Given(/^${1:condition}\$/) do
   ${2:### implementation}
 end
 ]]></content>

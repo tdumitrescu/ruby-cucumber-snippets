@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-Then /^${1:condition}\$/ do
+Then(/^${1:condition}\$/) do
   ${2:### implementation}
 end
 ]]></content>
